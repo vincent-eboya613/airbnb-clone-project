@@ -13,3 +13,28 @@ I'll pick specific Font Families like "Inter" or "Roboto" for different text typ
 
 Why This Matters:
 Identifying these details early is key because it guarantees consistency across our entire booking system. It makes it super easy for developers to build exactly what I designed, saves us time and money, and most importantly, creates a user-friendly and trustworthy experience that makes people want to book with us again and again. It's how we build a strong brand identity and stay ahead of the competition.
+Here are the key roles and responsibilities for our project:
+
+Project Roles and Responsibilities
+This section outlines who does what to make our booking system a success.
+
+Project Manager
+The Project Manager keeps everything on track. They're responsible for planning, executing, and closing the project. They manage the budget, timeline, and resources, making sure we hit our goals. They also handle risks and keep communication flowing between all teams.
+
+Product Owner
+The Product Owner is the voice of the customer. They define what features we build and why. They manage the product backlog, prioritize tasks, and ensure the final product delivers maximum value to our users and the business.
+
+Designers
+Our Designers (UI/UX) craft the look and feel of our booking system. They're responsible for user research, wireframes, mockups, and prototypes. Their goal is to create an intuitive, visually appealing, and user-friendly experience that makes booking a breeze.
+
+Frontend Developers
+The Frontend Developers bring the designs to life. They build everything users see and interact with, like buttons, forms, and page layouts. They use technologies like HTML, CSS, and JavaScript to ensure the user interface is responsive and engaging.
+
+Backend Developers
+The Backend Developers build the engine behind our system. They handle the server, database, and application logic that users don't see. This includes managing property listings, user accounts, bookings, and payment processing, ensuring everything works seamlessly and securely.
+
+QA/Testers
+Our QA/Testers are the quality guardians. They rigorously test the booking system to find bugs, ensure all features work as expected, and verify that the system meets our quality standards. They help deliver a reliable and error-free experience to users.
+
+DevOps Engineers
+The DevOps Engineers bridge the gap between development and operations. They're responsible for setting up and maintaining our development, testing, and production environments. They automate deployments, monitor system performance, and ensure our booking system is always available and running smoothly.
