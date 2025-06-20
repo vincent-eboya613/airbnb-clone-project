@@ -38,3 +38,16 @@ Our QA/Testers are the quality guardians. They rigorously test the booking syste
 
 DevOps Engineers
 The DevOps Engineers bridge the gap between development and operations. They're responsible for setting up and maintaining our development, testing, and production environments. They automate deployments, monitor system performance, and ensure our booking system is always available and running smoothly.
+No problem! Here's that section for your README.md, kept short and sweet:
+
+UI Component Patterns
+This section describes the reusable UI components we'll build to ensure consistency and efficiency across our booking system.
+
+Navbar
+The Navbar is the consistent top navigation bar. It will include our brand logo, primary navigation links (e.g., Home, Listings, About, Contact), a search bar, and user-related links (e.g., Login/Signup, User Profile). It needs to be clear, responsive, and always accessible.
+
+Property Card
+The Property Card is a standardized block for displaying individual property listings in a compact, scannable format. Each card will typically feature a property image, title, location, price, a star rating, and a clear call-to-action (e.g., "View Details"). This component is crucial for our main listing views.
+
+Footer
+The Footer is the section at the bottom of every page. It will contain essential links such as legal information (Privacy Policy, Terms of Service), contact details, social media links, and possibly a sitemap or copyright information. It provides important context and navigation for users at the end of a page.
